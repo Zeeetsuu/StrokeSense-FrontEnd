@@ -1,0 +1,29 @@
+{
+  "name": "strokesense",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.0.1",
+    "axios": "^1.9.0",
+    "framer-motion": "^12.9.2",
+    "lucide-react": "^0.503.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-hook-form": "^7.56.1",
+    "react-router-dom": "^7.5.3",
+    "recharts": "^2.15.3",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.5",
+    "@vitejs/plugin-react": "^4.4.1",
+    "tailwindcss": "^4.1.5",
+    "vite": "^6.3.4"
+  }
+}
